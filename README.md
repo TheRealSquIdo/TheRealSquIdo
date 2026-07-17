@@ -13,13 +13,22 @@
     </tr>
   </table>
 <details>
-  <summary> $${\color{#dfa081} \space ⬫　 \space .　ᥣiᥒk𝓈 \space !! 　　ꪆ୧ ·　 ׅ  　 ·}$$</summary>
+  <summary> $${\color{#dfa081} \space  ࣪ ˖ click　 \space 4  .˚\space 𝑙i𝑛k𝑠 ·　 ׅ  　 ·}$$</summary>
+
+ <a href="https://squevil.atabook.org">
+  <img src="https://64.media.tumblr.com/9f8c85f68699236bf786b4749d65a1ea/08784e8664766cae-9a/s100x200/1e839f96d2f5981e6722e48f4680760c4f208611.pnj" width="100">
+</a>
+ <a href="https://pronouns.cc/@squevil">
+  <img src="https://64.media.tumblr.com/38396b48a51a1d0b352ab5a950eb2969/6881669e68f403ae-c7/s100x200/fcb2eb06ccf028ab6406a20be44c033700cc25b7.pnj" width="100">
+</a>
+
+</details>
 
 <a href="https://hits.sh/github.com/SQUEVIL/hits/"><img width="120" alt="Hits" src="https://hits.sh/github.com/SQUEVIL/hits.svg?style=flat-square&label=%F0%96%A7%A7%20%20%20%20%20%20%E2%80%A2%EF%BB%8C%E2%80%A2&extraCount=89823&color=c2552b&labelColor=d1e7f5"/></a> 　　⸝⸝ 　　 $${\color{#d58459}squiddos! ˶ᵔ ᵕ ᵔ˶}$$
 
 
 
-WIP
+
 
 
 
