@@ -18,7 +18,7 @@
  <a href="https://squevil.atabook.org">
   <img src="https://64.media.tumblr.com/9f8c85f68699236bf786b4749d65a1ea/08784e8664766cae-9a/s100x200/1e839f96d2f5981e6722e48f4680760c4f208611.pnj" width="100">
 </a>
- <a href="https://pronouns.cc/@squevil">
+ <a href="https://pronouns.cc/@SQUEVIL">
   <img src="https://64.media.tumblr.com/38396b48a51a1d0b352ab5a950eb2969/6881669e68f403ae-c7/s100x200/fcb2eb06ccf028ab6406a20be44c033700cc25b7.pnj" width="100">
 </a>
 
